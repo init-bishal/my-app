@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9b3ec07d.css","mappings":"AAAA,OAEE,aACF,CACA,GAEE,oBACF","sources":["App.css"],"sourcesContent":[".blank\n{\n  color:rgb(172, 132, 236)  ;\n}\nli\n{\n  list-style-type: none ; \n}"],"names":[],"sourceRoot":""}
